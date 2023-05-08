@@ -3,7 +3,6 @@ kind: Deployment
 metadata:
   creationTimestamp: null
   name: devfile-sample-go-basic-xphr
-  namespace: dfodor-tenant
 spec:
   replicas: 1
   selector: {}
